@@ -1,0 +1,41 @@
+header {
+  text-align: center;
+  font-size: 24px;
+  color:#FFFFFF;
+  background-color: #63B3ED;
+}
+
+img {
+  border-radius: 50%;
+}
+img {
+  float: none;
+}
+
+p3{
+	color: #718096;
+}
+	
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-size: 36px;
+  font-family: "Times New Roman", Times, serif;	
+}
+
+h2 {
+  font-size: 32px;
+  color: #48BB78;
+}
+
+footer {
+	background-color: #2C5282;
+	color: #FFFFFF;
+}
+
+
+
+
