@@ -1,2 +1,3 @@
-# info2180-lab2
-This is a completed version of lab 2 for student 620106154.
+# INFO2180 Lab 2
+This is Lab 2 for Dravon Anderson.
+
